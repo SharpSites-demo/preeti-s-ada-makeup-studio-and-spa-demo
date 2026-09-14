@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#f4f1e9"/>
+  <circle cx="1045" cy="95" r="250" fill="#9e273c" opacity=".55"/>
+  <rect x="58" y="58" width="1084" height="514" rx="32" fill="#fffdf8" stroke="#b98b2f" stroke-width="6"/>
+  <text x="104" y="140" fill="#b98b2f" font-family="Arial,Helvetica,sans-serif" font-size="28" font-weight="700" letter-spacing="4">MAKEUP STUDIO, SALON AND SPA</text>
+  <text x="104" y="250" fill="#102643" font-family="Arial,Helvetica,sans-serif" font-size="78" font-weight="800">Preeti&#039;s ADA Makeup Studio &amp;</text>
+  <text x="104" y="342" fill="#102643" font-family="Arial,Helvetica,sans-serif" font-size="78" font-weight="800">Spa</text>
+  <text x="104" y="530" fill="#102643" opacity=".7" font-family="Arial,Helvetica,sans-serif" font-size="26">Services, details and direct enquiries</text>
+</svg>
